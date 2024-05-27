@@ -8,7 +8,7 @@ import { ThemedText } from "@/components/ThemedText";
 import { ThemedView } from "@/components/ThemedView";
 
 export default function TabTwoScreen() {
-  return <Text>This is Explore page</Text>;
+  return <Text>This is Netx page</Text>;
 }
 
 const styles = StyleSheet.create({
